@@ -1,0 +1,14 @@
+	.hero {
+
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	min-height: 800px;
+	background-size: cover;
+	padding-bottom: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+
